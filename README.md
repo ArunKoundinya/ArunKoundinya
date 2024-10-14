@@ -9,7 +9,7 @@
   Exploring the depths of **Deep Learning**, mastering **Transformer architectures**, and applying **ML Ops** techniques for robust deployment. Continuously honing my skills in cloud computing (AWS), NLP applications, and cutting-edge ML frameworks.
 
 - 💼 **I’m looking to collaborate on:**  
-  Real-world data science projects that push the boundaries of **machine learning**, **AI**, and **big data analytics**. Open to building innovative solutions, contributing to research, and working on projects that make a difference in **business strategy**, **operations** or even **social impact** (ask me about my work on suicide prevention apps!)
+  Real-world data science projects that push the boundaries of **machine learning**, **AI**, and **big data analytics**. Open to building innovative solutions, contributing to research, and working on projects that make a difference in **business strategy**, **operations** or even **social impact** (ask me about my current capstone work on suicide prevention app!)
 
 - 😄 **Pronouns:**  
   He/Him
